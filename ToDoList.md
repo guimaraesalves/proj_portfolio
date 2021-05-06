@@ -1,18 +1,34 @@
-[ ] **Definição das Etapas**
+- [ ] **Definição das Etapas**
 
-- [ ] Design
+  - [ ] Estudo preliminar dos conteúdos necessários.
 
-  - [ ] Definição do Layout
-  - [ ] Programação Front-End
 
-- [ ] Conteúdo
 
-  - [ ] textos
-  - [ ] imagens
-  - [ ] Currículo Vitae
-  - [ ] Blog
+- [ ] Design.
 
-- [ ] Projetos para expor
+  - [ ] Definição do Layout.
 
-  - [ ] Hank-Pessoa (Poetas Chatterbot)
-  - [ ] Elaborar mais projetos
+    - [ ] App para modelagem da index.html.
+    - [ ] Definição das páginas.
+
+  - [ ] Programação Front-End.
+
+    - [ ] html.
+    - [ ] CSS.
+    - [ ] JS.
+
+
+
+- [ ] Conteúdo.
+
+  - [ ] textos.
+  - [ ] imagens.
+  - [ ] Currículo Vitae.
+  - [ ] Blog.
+
+
+
+- [ ] Projetos para expor.
+
+  - [ ] Hank-Pessoa (Poetas Chatterbot).
+  - [ ] Elaborar mais projetos.
